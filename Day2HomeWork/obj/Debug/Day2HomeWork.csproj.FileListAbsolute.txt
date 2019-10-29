@@ -1,0 +1,7 @@
+C:\Users\TECH-W59\Engineering45\Week2\Day2\Day2HomeWork\Day2HomeWork\bin\Debug\Day2HomeWork.exe.config
+C:\Users\TECH-W59\Engineering45\Week2\Day2\Day2HomeWork\Day2HomeWork\bin\Debug\Day2HomeWork.exe
+C:\Users\TECH-W59\Engineering45\Week2\Day2\Day2HomeWork\Day2HomeWork\bin\Debug\Day2HomeWork.pdb
+C:\Users\TECH-W59\Engineering45\Week2\Day2\Day2HomeWork\Day2HomeWork\obj\Debug\Day2HomeWork.csprojAssemblyReference.cache
+C:\Users\TECH-W59\Engineering45\Week2\Day2\Day2HomeWork\Day2HomeWork\obj\Debug\Day2HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\TECH-W59\Engineering45\Week2\Day2\Day2HomeWork\Day2HomeWork\obj\Debug\Day2HomeWork.exe
+C:\Users\TECH-W59\Engineering45\Week2\Day2\Day2HomeWork\Day2HomeWork\obj\Debug\Day2HomeWork.pdb
